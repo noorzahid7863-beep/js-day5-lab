@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Laptop", "category": "electronics", "price": 1200, "inStock": true },
+  { "id": 2, "name": "Headphones", "category": "electronics", "price": 150, "inStock": true },
+  { "id": 3, "name": "Mouse", "category": "electronics", "price": 25, "inStock": false },
+  { "id": 4, "name": "Desk Chair", "category": "furniture", "price": 200, "inStock": true }
+]
